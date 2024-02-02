@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite Tailwind CSS Tabs もっと簡単な方法
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

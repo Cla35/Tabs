@@ -48,7 +48,7 @@ function TabsL() {
         {/* Panel 2*/}
         <div className='flex flex-col  md:flex-row md:space-x-7'>
           {/* Panel Image */}
-          <div id="Tokyo" className='flex justify-center mx-auto hidden transition duration-700 tabcontent'>
+          <div id="Tokyo" className=' justify-center mx-auto hidden transition duration-700 tabcontent'>
            <img src="./public/img/tailwind.png" alt="dd" className='h-14' />
             <div className='flex flex-col py-3 space-y-8 w-1/2'>
               <h3 className='mt-32 text-1xl font-semibold text-center md:mt-0 md:text-left'>
