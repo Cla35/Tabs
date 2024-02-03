@@ -1,12 +1,13 @@
 
-import TabsL from './components/TabsL'
+import Tabs from './components/Tabs'
+
 
 function App() {
 
 
   return (
     <>
-      <TabsL/>
+      <Tabs/>
     </>
   )
 }
